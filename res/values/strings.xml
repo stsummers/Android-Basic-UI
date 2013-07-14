@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWeixin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Test</string>
+    <string name="update_image">Update image ;-)</string>
+    <string-array name="update">
+        <item >Update image</item>
+        <item >Update message</item>
+    </string-array>
+    <string name="update_message">Update message :-P</string>
+
+</resources>
